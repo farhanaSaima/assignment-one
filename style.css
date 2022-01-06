@@ -125,3 +125,36 @@ footer{
 footer p{
     color: #D9DBE1;
 }
+.ratings h1{
+    color: #13103A;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.ratings_number h1 span{
+    margin-top: 120px;
+    color: #FF5959;
+}
+
+.ratings{
+    background-color: #fff4d698;
+    padding: 30px;
+}
+
+.ratings_profile h2{
+    color: #FF5959;
+}
+
+    .ratings_profile img{
+        width: 200px;
+    }
+    .rating_Mark{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-bottom: 100px;
+    }
+    .ratings{
+        background-color: #fff4d698;
+        padding: 30px;
+    }    
