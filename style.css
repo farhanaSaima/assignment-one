@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head_section1{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.right_side img{
+    width: 600px;
+}
+.left_border{
+    width:7px;
+    height:200px;
+    background-color: #FF5959;
+    border-radius: 30px;
+}
+.left_content{
+    display: flex;
+    align-items: center;
+    height:250px;
+}
+.left_content h1{
+    font-size: 100px;
+    margin-left: 20px;
+    
+}
+.mission_font{
+    color:#FFAD5A;
+}
+.left_side p{
+    width:500px;
+}
+.Explore_button{
+    border:none;
+    width:156px;
+    height:50px;
+    background-color: #FF5959;
+    color:white;
+    font-size: 20px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+.section2_header{
+    font-size: 90px;
+    text-align: center;
+    color: #13103A;
+}
+.section2_header span{
+    color: #FFAD5A;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card1_content img{
+    width: 126px;
+}
+.card1_content{
+    width: 360px;
+    background-color: #4f9da632;
+    padding: 20px;
+    border-radius: 20px;
+    height: 280px;
+}
+.card2_content{
+    width: 360px;
+    background-color: #ff595934;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card2_content img{
+    width: 126px;
+}
+
+   
+.card3_content{
+    width: 360px;
+    background-color: #fff4d698;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card3_content img{
+    width: 126px;
+}
+.section3{
+    align-items: center;
+    padding: 164px;
+    display: flex;
+    justify-content: space-between;
+}
+.right_side_3{
+    margin-right: 94px;
+    width: 700px;
+}
+.DevelopeButton{
+    width: 243px;
+    height: 48px;
+    background-color: #FF5959;
+    border: none;
+    border-radius:10px;
+    color: white;
+}
+.left_side_3 img{
+    width: 360px;
+}
+.right_side_3 h1{
+    font-size: 60px;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: #0B0D17;
+    padding: 30px;
+}
+.missionFooter{
+    color: white;
+    font-size: 40px;
+}
+.missionFooter span{
+    color: #FF5959;
+}
+footer p{
+    color: #D9DBE1;
+}
